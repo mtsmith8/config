@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @themorgantanner
 - 👀 I’m interested in software engineering, physics, research
-- 🌱 I’m currently learning Ruby
+- 🌱 I’m currently learning Docker/containerization
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
