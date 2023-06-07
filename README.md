@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mtsmith8
 - 👀 I’m interested in software engineering, physics, research
-- 🌱 I’m currently learning Docker/containerization
+- 🌱 I’m currently learning containerization, Rust, and web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
