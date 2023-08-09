@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mtsmith8
 - 👀 I’m interested in software engineering, physics, research
-- 🌱 I’m currently learning Docker, Rust, and web development
+- 🌱 I’m currently learning Docker, Rust, web development, and Python
 - 💞️ I’m looking to collaborate on applications, games, data science projects...
 - 📫 How to reach me: morgantanner310@gmail.com
 
