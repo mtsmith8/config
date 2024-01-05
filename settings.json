@@ -1,0 +1,43 @@
+{
+    "editor.minimap.enabled": false,
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.formatOnType": true,
+    "editor.parameterHints.enabled": false,
+    "editor.guides.indentation": false,
+    "editor.stickyTabStops": true,
+    "editor.unicodeHighlight.allowedCharacters": {
+        "α": true
+    },
+    "editor.rulers": [
+        100
+    ],
+    "explorer.compactFolders": true,
+    "files.autoSave": "afterDelay",
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "github.copilot.enable": {
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "terminal.integrated.commandsToSkipShell": [
+        "language-julia.interrupt"
+    ],
+    "workbench.panel.defaultLocation": "bottom",
+    "workbench.colorCustomizations": {
+        "editorError.foreground": "#7D0000",
+        "editorWarning.foreground": "#f0d26f",
+        "editorInfo.foreground": "#014d4e"
+    },
+    "C_Cpp.clang_format_fallbackStyle": "{BasedOnStyle: LLVM, IndentWidth: 4, ColumnLimit: 80}",
+    "C_Cpp.autocompleteAddParentheses": true,
+    "C_Cpp.intelliSenseEngineFallback": "enabled",
+    "julia.symbolCacheDownload": true,
+    "julia.enableTelemetry": true,
+    "python.defaultInterpreterPath": "/usr/bin/python3",
+}
